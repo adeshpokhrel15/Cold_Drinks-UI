@@ -17,7 +17,7 @@ class _DetailsPageState extends State<DetailsPage> {
               width: MediaQuery.of(context).size.width,
               color: const Color.fromARGB(255, 190, 182, 183)),
           Positioned(
-              top: MediaQuery.of(context).size.height / 2,
+              top: MediaQuery.of(context).size.height / 3,
               child: Container(
                   height: MediaQuery.of(context).size.height / 2 - 20.0,
                   width: MediaQuery.of(context).size.width,
